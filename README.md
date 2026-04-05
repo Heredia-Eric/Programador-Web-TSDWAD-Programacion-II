@@ -30,9 +30,9 @@ El proyecto fue construido siguiendo la metodología propuesta en el material te
    git clone [https://github.com/Heredia-Eric/Programador-Web-TSDWAD-Programacion-II.git]
 2. **Crear y activar el entorno virtual:**
     python -m venv env
-    # En Windows:
+    **En Windows:**
     env\Scripts\activate
-    # En Mac/Linux:
+    **En Mac/Linux:**
     source env/bin/activate
 3. **Instalación de dependencias:**
     pip install -r requirements.txt
